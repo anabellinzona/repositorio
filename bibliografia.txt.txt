@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 referencias: Scott Chac and Ben Straub. Pro Git. Apress.
 Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
+=======
+Chac, S. and Straub, B. Pro Git. Apress.
+>>>>>>> 7737ccc339051470539af0f06a1e4d1571b69f3c
